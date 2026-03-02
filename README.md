@@ -1,5 +1,5 @@
 # crypto
-Некоторые криптографические алгоритмы
+Some cryptographic algorithms
 
-1. Алгоритм шифрования линейной функции
-2. Алгоритм эллиптической функции
+1. Linear function encryption algorithm  
+2. Elliptic curve algorithm
